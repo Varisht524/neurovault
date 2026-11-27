@@ -1,0 +1,11 @@
+venv/
+.freebuff/
+data/*
+!data/.gitkeep
+sessions/*
+!sessions/.gitkeep
+demo_cache/
+__pycache__/
+.pytest_cache/
+.DS_Store
+_p*.txt
